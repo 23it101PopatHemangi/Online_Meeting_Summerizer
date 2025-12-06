@@ -62,22 +62,6 @@ npm run dev
 Restart with:
 npm run dev
 
-## Project Screenshots
-
-### 1. Home Page
-![Screenshot 1](public/Screenshots/Screenshot%202025-11-28%20104246.png)
-
-### 2. Meeting Create Page
-![Screenshot 2](public/Screenshots/Screenshot%202025-11-28%20104419.png)
-
-### 3. Meeting Interface
-![Screenshot 3](public/Screenshots/Screenshot%202025-11-28%20104510.png)
-
-### 4. Chat Section
-![Screenshot 4](public/Screenshots/Screenshot%202025-11-28%20104757.png)
-
-### 5. Screen Sharing
-![Screenshot 5](public/Screenshots/Screenshot%202025-11-28%20104828.png)
 
 
 
