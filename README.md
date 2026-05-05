@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📹 ZinkUp – Video Conferencing App  
 ### Real-time Meetings, Scheduling, and Secure Collaboration  
 
@@ -68,3 +69,6 @@ npm run dev
 
 
 
+=======
+# Online_Meeting_Summerizer
+>>>>>>> a5c5ee7ed446557b7bf6c10d9f5da365198e1823
