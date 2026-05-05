@@ -395,7 +395,8 @@ app.get('/api/recaps/:meetingId', async (req, res) => {
   }
 });
 
-const PORT = 3001;
+const PORT = process.env.PORT || 3001;
+
 server.listen(PORT, () => {
-  console.log(`Signaling server listening on port ${PORT}`);
+  console.log(`Server running on port ${PORT}`);
 });
